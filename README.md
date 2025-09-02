@@ -2,6 +2,8 @@
 
 A Node.js backend service for music downloading and metadata archiving, built with Express and MongoDB.
 
+> **Important Disclaimer**: This tool is for personal use only. Please respect copyright laws and only download content you have the right to access.
+
 ## Features
 
 - YouTube music download and streaming
@@ -120,7 +122,7 @@ src/
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 ## Author
 
